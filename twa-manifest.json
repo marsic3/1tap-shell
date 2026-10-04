@@ -1,0 +1,10 @@
+{
+  "fallbackType": "webview",
+  "generatorApp": "solana-mobile",
+  "host": "beta.1tap.trade",
+  "launcherName": "1tap",
+  "name": "1tap",
+  "packageId": "trade.onetap",
+  "startUrl": "/",
+  "webManifestUrl": "https://beta.1tap.trade/manifest.webmanifest"
+}
